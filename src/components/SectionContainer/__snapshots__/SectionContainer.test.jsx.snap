@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SectionContainer /> should render content 1`] = `
+<div>
+  <section
+    class="sc-bczRLJ fDenUD"
+  >
+    <h1>
+      Children
+    </h1>
+  </section>
+</div>
+`;

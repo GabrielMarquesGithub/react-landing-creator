@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Link /> should match snapshot 1`] = `
+<div>
+  <div
+    class="sc-gsnTZi jMsOSA"
+  >
+    <a
+      class="sc-bczRLJ gqHZrE"
+      href="http://localhost:3000"
+      target="_self"
+    >
+      Children
+    </a>
+  </div>
+</div>
+`;
