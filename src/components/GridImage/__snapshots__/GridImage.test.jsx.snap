@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<GridImage /> should render 1`] = `
+<div>
+  <div
+    class="sc-dkzDqf lkIdBF"
+  >
+    <section
+      class="sc-gsnTZi jiuFls"
+    >
+      <div
+        class="sc-eCYdqJ fLTjpd"
+      >
+        <h2
+          class="sc-bczRLJ eUIZyZ"
+        >
+          My grid
+        </h2>
+        <p
+          class="sc-hKMtZM SUpSD"
+        >
+          Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde
+        </p>
+        <div
+          class="sc-jSMfEi eHlxLR"
+        >
+          <div
+            class="sc-gKXOVf eQbxRB"
+          >
+            <img
+              alt="Teste 1"
+              class="sc-iBkjds iUNHGm"
+              src="https://source.unsplash.com/random/800x800?r=1"
+            />
+          </div>
+          <div
+            class="sc-gKXOVf eQbxRB"
+          >
+            <img
+              alt="Teste 2"
+              class="sc-iBkjds iUNHGm"
+              src="https://source.unsplash.com/random/800x800?r=2"
+            />
+          </div>
+          <div
+            class="sc-gKXOVf eQbxRB"
+          >
+            <img
+              alt="Teste 3"
+              class="sc-iBkjds iUNHGm"
+              src="https://source.unsplash.com/random/800x800?r=3"
+            />
+          </div>
+          <div
+            class="sc-gKXOVf eQbxRB"
+          >
+            <img
+              alt="Teste 4"
+              class="sc-iBkjds iUNHGm"
+              src="https://source.unsplash.com/random/800x800?r=4"
+            />
+          </div>
+          <div
+            class="sc-gKXOVf eQbxRB"
+          >
+            <img
+              alt="Teste 5"
+              class="sc-iBkjds iUNHGm"
+              src="https://source.unsplash.com/random/800x800?r=5"
+            />
+          </div>
+          <div
+            class="sc-gKXOVf eQbxRB"
+          >
+            <img
+              alt="Teste 6"
+              class="sc-iBkjds iUNHGm"
+              src="https://source.unsplash.com/random/800x800?r=6"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+`;

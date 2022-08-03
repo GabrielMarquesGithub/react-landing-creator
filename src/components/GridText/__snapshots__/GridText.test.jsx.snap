@@ -1,0 +1,74 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<GridText /> should render 1`] = `
+<div>
+  <div
+    class="sc-dkzDqf jqUFFT"
+  >
+    <section
+      class="sc-gsnTZi jiuFls"
+    >
+      <div
+        class="sc-eCYdqJ fLTjpd"
+      >
+        <h2
+          class="sc-bczRLJ exNOxm"
+        >
+          My grid
+        </h2>
+        <p
+          class="sc-hKMtZM SUpSD"
+        >
+          Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde
+        </p>
+        <div
+          class="sc-jSMfEi cjPvZi"
+        >
+          <div
+            class="sc-gKXOVf bucRnE"
+          >
+            <h3
+              class="sc-bczRLJ jEdyJu"
+            >
+              Teste 1
+            </h3>
+            <p
+              class="sc-hKMtZM SUpSD"
+            >
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.
+            </p>
+          </div>
+          <div
+            class="sc-gKXOVf bucRnE"
+          >
+            <h3
+              class="sc-bczRLJ jEdyJu"
+            >
+              Teste 2
+            </h3>
+            <p
+              class="sc-hKMtZM SUpSD"
+            >
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.
+            </p>
+          </div>
+          <div
+            class="sc-gKXOVf bucRnE"
+          >
+            <h3
+              class="sc-bczRLJ jEdyJu"
+            >
+              Teste 3
+            </h3>
+            <p
+              class="sc-hKMtZM SUpSD"
+            >
+              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Debitis cum delectus molestias. Atque doloribus nobis laudantium esse ut, non commodi maxime distinctio veritatis unde, reprehenderit minus ad dolores provident maiores.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+`;

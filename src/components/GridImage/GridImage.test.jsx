@@ -1,11 +1,11 @@
 import { renderTheme } from '../../styles/renderTheme';
-import { GridText } from '.';
+import { GridImage } from '.';
 
 import mock from './mock';
 
-describe('<GridText />', () => {
+describe('<GridImage />', () => {
   it('should render', () => {
-    const { container } = renderTheme(<GridText {...mock} />);
+    const { container } = renderTheme(<GridImage {...mock} />);
     expect(container).toMatchSnapshot();
   });
 });

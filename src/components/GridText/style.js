@@ -22,7 +22,7 @@ export const ElementContainer = styled.div`
     margin-top: ${theme.font.size.huge};
     ${title} {
       position: relative;
-      left: 6rem;
+      margin-left: 6rem;
 
       &::before {
         content: counter(grid-element);

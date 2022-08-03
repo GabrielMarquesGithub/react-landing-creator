@@ -11,6 +11,8 @@ export const GlobalStyle = createGlobalStyle`
 
 html{
   font-size: 62.5%;
+  // controla velocidade do scroll com css
+  scroll-behavior: smooth;
 }
 
 body{

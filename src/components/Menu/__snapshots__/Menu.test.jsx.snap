@@ -70,7 +70,7 @@ exports[`<Menu /> should render a logo and a main menu nav 1`] = `
 .c4 {
   max-width: 120rem;
   margin: 0 auto;
-  padding: 3.2rem;
+  padding: 0.8rem;
 }
 
 .c2 {

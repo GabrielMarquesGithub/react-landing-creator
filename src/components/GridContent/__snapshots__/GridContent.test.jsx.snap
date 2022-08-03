@@ -3,19 +3,19 @@
 exports[`<GridContent /> should render correct 1`] = `
 <div>
   <div
-    class="sc-gsnTZi gTfqSS"
+    class="sc-gsnTZi kWredu"
   >
     <section
-      class="sc-bczRLJ fDenUD"
+      class="sc-bczRLJ eEOUOS"
     >
       <div
         class="sc-eCYdqJ jDNBBl"
       >
-        <h1
+        <h2
           class="sc-dkzDqf jpbTYE"
         >
           Grid Content
-        </h1>
+        </h2>
         <p
           class="sc-hKMtZM SUpSD"
         >

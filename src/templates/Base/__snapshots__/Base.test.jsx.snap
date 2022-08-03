@@ -1,0 +1,186 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Base/> Should render Base component 1`] = `
+<div>
+  <button
+    aria-label="Open/Close menu"
+    class="sc-ftvSup fdckYa"
+  >
+    <svg
+      aria-hidden="true"
+      aria-label="Open menu"
+      class="StyledIconBase-ea9ulj-0 lbJwfL"
+      fill="currentColor"
+      focusable="false"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M0 0h24v24H0V0z"
+        fill="none"
+      />
+      <path
+        d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"
+      />
+    </svg>
+  </button>
+  <div
+    class="sc-gKXOVf gMHglK"
+  >
+    <section
+      class="sc-jSMfEi XnVFb"
+    >
+      <div
+        class="sc-iBkjds iPRTCF"
+      >
+        <h1
+          class="sc-bczRLJ eZrlHS"
+        >
+          <a
+            class="sc-gsnTZi dTvfme"
+            href="https://www.google.com.br/"
+          >
+            <img
+              alt="Alo galera de cowboy"
+              src="assets/images/logo.svg"
+            />
+          </a>
+        </h1>
+        <nav
+          aria-label="Main menu"
+          class="sc-eCYdqJ iCoeuS"
+        >
+          <div
+            class="sc-hKMtZM ggUkCk"
+          >
+            <a
+              class="sc-dkzDqf bVgcId"
+              href="#target1"
+              target="_self"
+            >
+              Link 1
+            </a>
+          </div>
+          <div
+            class="sc-hKMtZM ggUkCk"
+          >
+            <a
+              class="sc-dkzDqf bVgcId"
+              href="#target2"
+              target="_self"
+            >
+              Link 2
+            </a>
+          </div>
+          <div
+            class="sc-hKMtZM ggUkCk"
+          >
+            <a
+              class="sc-dkzDqf bVgcId"
+              href="#target3"
+              target="_self"
+            >
+              Link 3
+            </a>
+          </div>
+          <div
+            class="sc-hKMtZM ggUkCk"
+          >
+            <a
+              class="sc-dkzDqf bVgcId"
+              href="#target4"
+              target="_self"
+            >
+              Link 4
+            </a>
+          </div>
+          <div
+            class="sc-hKMtZM ggUkCk"
+          >
+            <a
+              class="sc-dkzDqf bVgcId"
+              href="#target5"
+              target="_self"
+            >
+              Link 5
+            </a>
+          </div>
+          <div
+            class="sc-hKMtZM ggUkCk"
+          >
+            <a
+              class="sc-dkzDqf bVgcId"
+              href="#target6"
+              target="_self"
+            >
+              Link 6
+            </a>
+          </div>
+          <div
+            class="sc-hKMtZM ggUkCk"
+          >
+            <a
+              class="sc-dkzDqf bVgcId"
+              href="#target7"
+              target="_self"
+            >
+              Link 7
+            </a>
+          </div>
+          <div
+            class="sc-hKMtZM ggUkCk"
+          >
+            <a
+              class="sc-dkzDqf bVgcId"
+              href="#target8"
+              target="_self"
+            >
+              Link 8
+            </a>
+          </div>
+        </nav>
+      </div>
+    </section>
+  </div>
+  <main
+    class="sc-iqcoie crmuDU"
+  >
+    <footer
+      class="sc-jqUVSM FZjPg"
+    >
+      <section
+        class="sc-jSMfEi XnVFb"
+      >
+        <p
+          class="sc-papXJ hSPKut"
+        >
+          Gabriel Marques Magalhães
+        </p>
+      </section>
+    </footer>
+  </main>
+  <a
+    aria-label="Go to top"
+    class="sc-kDDrLX eBSPbA"
+    href="#"
+    title="Go to top"
+  >
+    <svg
+      aria-hidden="true"
+      class="StyledIconBase-ea9ulj-0 lbJwfL"
+      fill="currentColor"
+      focusable="false"
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M0 0h24v24H0V0z"
+        fill="none"
+      />
+      <path
+        d="M7 14l5-5 5 5H7z"
+      />
+    </svg>
+  </a>
+</div>
+`;
