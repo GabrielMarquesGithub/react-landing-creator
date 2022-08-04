@@ -145,6 +145,9 @@ exports[`<Base/> Should render Base component 1`] = `
   <main
     class="sc-iqcoie crmuDU"
   >
+    <h1>
+      element
+    </h1>
     <footer
       class="sc-jqUVSM FZjPg"
     >

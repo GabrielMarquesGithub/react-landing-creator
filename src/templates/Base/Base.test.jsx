@@ -16,7 +16,9 @@ describe('<Base/>', () => {
         links={mock}
         logoData={logoData}
         footerHtml="Gabriel Marques Magalhães"
-      />,
+      >
+        <h1>element</h1>
+      </Base>,
     );
     expect(container).toMatchSnapshot();
   });

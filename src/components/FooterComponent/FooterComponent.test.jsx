@@ -4,7 +4,9 @@ import { FooterComponent } from './index';
 
 describe('<FooterComponent />', () => {
   it('should render', () => {
-    const { container } = renderTheme(<FooterComponent html="<h1>test</h1>" />);
+    const { container } = renderTheme(
+      <FooterComponent footerHtml="<h1>test</h1>" />,
+    );
     expect(screen.getByRole('heading')).toBeInTheDocument();
     expect(container).toMatchInlineSnapshot(`
       <div>
