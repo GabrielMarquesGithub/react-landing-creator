@@ -6,7 +6,7 @@
         "title": "olha só",
         "slug": "olha-so",
         "createdAt": "2022-07-26T17:38:05.451Z",
-        "updatedAt": "2022-07-26T18:53:15.471Z",
+        "updatedAt": "2022-08-06T17:48:15.884Z",
         "publishedAt": "2022-07-26T17:41:04.759Z",
         "footer_text": "texto do footer",
         "sections": [
@@ -89,6 +89,162 @@
               }
             ],
             "image_grid": []
+          },
+          {
+            "id": 2,
+            "__component": "section.section-grid",
+            "title": "GALLERY",
+            "description": "Uma breve descrição.",
+            "metadata": {
+              "id": 4,
+              "name": "grid-two",
+              "section_id": "grid-two",
+              "background": false
+            },
+            "text_grid": [],
+            "image_grid": [
+              {
+                "id": 1,
+                "image": {
+                  "data": [
+                    {
+                      "id": 6,
+                      "attributes": {
+                        "name": "1.jpg",
+                        "alternativeText": "1.jpg",
+                        "caption": "1.jpg",
+                        "width": 225,
+                        "height": 225,
+                        "formats": {
+                          "thumbnail": {
+                            "ext": ".jpg",
+                            "url": "https://res.cloudinary.com/dj1sekgxs/image/upload/v1659803386/thumbnail_1_5bc5cedafb.jpg",
+                            "hash": "thumbnail_1_5bc5cedafb",
+                            "mime": "image/jpeg",
+                            "name": "thumbnail_1.jpg",
+                            "path": null,
+                            "size": 6.41,
+                            "width": 156,
+                            "height": 156,
+                            "provider_metadata": {
+                              "public_id": "thumbnail_1_5bc5cedafb",
+                              "resource_type": "image"
+                            }
+                          }
+                        },
+                        "hash": "1_5bc5cedafb",
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "size": 11.06,
+                        "url": "https://res.cloudinary.com/dj1sekgxs/image/upload/v1659803385/1_5bc5cedafb.jpg",
+                        "previewUrl": null,
+                        "provider": "cloudinary",
+                        "provider_metadata": {
+                          "public_id": "1_5bc5cedafb",
+                          "resource_type": "image"
+                        },
+                        "createdAt": "2022-08-06T16:29:48.277Z",
+                        "updatedAt": "2022-08-06T16:29:48.277Z"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": 2,
+                "image": {
+                  "data": [
+                    {
+                      "id": 4,
+                      "attributes": {
+                        "name": "2.jpeg",
+                        "alternativeText": "2.jpeg",
+                        "caption": "2.jpeg",
+                        "width": 500,
+                        "height": 500,
+                        "formats": {
+                          "thumbnail": {
+                            "ext": ".jpeg",
+                            "url": "https://res.cloudinary.com/dj1sekgxs/image/upload/v1659803386/thumbnail_2_7a4d300728.jpg",
+                            "hash": "thumbnail_2_7a4d300728",
+                            "mime": "image/jpeg",
+                            "name": "thumbnail_2.jpeg",
+                            "path": null,
+                            "size": 4.83,
+                            "width": 156,
+                            "height": 156,
+                            "provider_metadata": {
+                              "public_id": "thumbnail_2_7a4d300728",
+                              "resource_type": "image"
+                            }
+                          }
+                        },
+                        "hash": "2_7a4d300728",
+                        "ext": ".jpeg",
+                        "mime": "image/jpeg",
+                        "size": 37.83,
+                        "url": "https://res.cloudinary.com/dj1sekgxs/image/upload/v1659803385/2_7a4d300728.jpg",
+                        "previewUrl": null,
+                        "provider": "cloudinary",
+                        "provider_metadata": {
+                          "public_id": "2_7a4d300728",
+                          "resource_type": "image"
+                        },
+                        "createdAt": "2022-08-06T16:29:48.001Z",
+                        "updatedAt": "2022-08-06T16:29:48.001Z"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": 3,
+                "image": {
+                  "data": [
+                    {
+                      "id": 5,
+                      "attributes": {
+                        "name": "3.jpg",
+                        "alternativeText": "3.jpg",
+                        "caption": "3.jpg",
+                        "width": 500,
+                        "height": 500,
+                        "formats": {
+                          "thumbnail": {
+                            "ext": ".jpg",
+                            "url": "https://res.cloudinary.com/dj1sekgxs/image/upload/v1659803386/thumbnail_3_a9b6d11e89.jpg",
+                            "hash": "thumbnail_3_a9b6d11e89",
+                            "mime": "image/jpeg",
+                            "name": "thumbnail_3.jpg",
+                            "path": null,
+                            "size": 1.69,
+                            "width": 156,
+                            "height": 156,
+                            "provider_metadata": {
+                              "public_id": "thumbnail_3_a9b6d11e89",
+                              "resource_type": "image"
+                            }
+                          }
+                        },
+                        "hash": "3_a9b6d11e89",
+                        "ext": ".jpg",
+                        "mime": "image/jpeg",
+                        "size": 7.4,
+                        "url": "https://res.cloudinary.com/dj1sekgxs/image/upload/v1659803385/3_a9b6d11e89.jpg",
+                        "previewUrl": null,
+                        "provider": "cloudinary",
+                        "provider_metadata": {
+                          "public_id": "3_a9b6d11e89",
+                          "resource_type": "image"
+                        },
+                        "createdAt": "2022-08-06T16:29:48.155Z",
+                        "updatedAt": "2022-08-06T16:29:48.155Z"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
           }
         ],
         "menu": {
@@ -132,6 +288,12 @@
               "id": 1,
               "link_text": "grid",
               "link_url": "#grid-one",
+              "open_in_new_tab": false
+            },
+            {
+              "id": 3,
+              "link_text": "gallery",
+              "link_url": "#grid-two",
               "open_in_new_tab": false
             }
           ]

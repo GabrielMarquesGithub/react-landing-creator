@@ -10,9 +10,11 @@ describe('map-data', () => {
   it('should map data if there are data', () => {
     const pagesData = mapData([
       {
-        footer_text: 'test footer',
-        slug: 'test slug',
-        title: 'test title',
+        attributes: {
+          footer_text: 'test footer',
+          slug: 'test slug',
+          title: 'test title',
+        },
       },
     ])[0];
     expect(pagesData.footerHtml).toBe('test footer');

@@ -1,6 +1,5 @@
 import styled, { css } from 'styled-components';
 import { title } from '../Heading/style';
-import { Text } from '../Text/style';
 
 export const Container = styled.div`
   display: flex;
@@ -14,6 +13,10 @@ export const ElementsContainer = styled.div`
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
     gap: ${theme.spacing.medium};
+
+    @media (${theme.media.lessMedium}) {
+      grid-template-columns: 1fr;
+    }
   `}
 `;
 export const ElementContainer = styled.div`

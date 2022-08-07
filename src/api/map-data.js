@@ -9,7 +9,7 @@ export const mapData = (dataArray = [{}]) => {
       title = '',
       sections = [],
       menu = {},
-    } = data;
+    } = data.attributes;
     return {
       footerHtml,
       slug,
