@@ -41,7 +41,7 @@ function Home() {
       }
     };
     load();
-  }, []);
+  }, [slugPath]);
 
   useEffect(() => {
     if (loading || !data.slug) {
