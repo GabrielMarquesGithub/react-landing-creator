@@ -1,3 +1,4 @@
+import { useLocation } from 'react-router-dom';
 import { useEffect, useState } from 'react';
 
 import { Base } from '../Base/index';
@@ -14,6 +15,8 @@ import { mapData } from '../../api/map-data';
 import * as Styled from './style';
 
 function Home() {
+  const { pathname } = useLocation();
+  const slugPath = pathname.length > 1 ? pathname : 'dynamic-page';
   const [data, setData] = useState([]);
   const [loading, setLoading] = useState(false);
 
@@ -23,7 +26,7 @@ function Home() {
     const load = async () => {
       try {
         const data = await fetch(
-          'http://localhost:1337/api/pages?filters[slug]=olha-so&populate=deep',
+          `https://strapi-landing-creator.herokuapp.com/api/pages?filters[slug]=${slugPath}&populate=deep`,
         );
         const json = await data.json();
         const pageData = mapData(json.data);
